@@ -9,7 +9,7 @@ export default function Cards(props) {
     useEffect(() => {
         const timer = setTimeout(() => {
             setIsLoading(false);
-        }, 3000);
+        }, 1200);
 
         return () => clearTimeout(timer);
     }, []);
@@ -65,7 +65,7 @@ export default function Cards(props) {
                                         <strong>Prix: {produit.prix}€</strong>
                                     </p>
                                     <Link 
-                                        to={`/details/${produit.id}`} 
+                                        to={`/shop/${produit.id}`} 
                                         className="btn btn-primary"
                                     >
                                         Voir détails
