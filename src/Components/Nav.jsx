@@ -32,12 +32,12 @@ export default function Nav(props) {
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            About
+            Shop
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            Pricing
+            Contact
           </a>
         </li>
        

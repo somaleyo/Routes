@@ -7,6 +7,7 @@ export default function  Home(props) {
     return(
         <>
             <Nav/>
+            <h1>Home ici</h1>
         </>
     )
 }
