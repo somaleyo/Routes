@@ -7,7 +7,7 @@ export default function Nav(props) {
 
     return(
         <>
-           <nav className="navbar navbar-expand-lg bg-body-tertiary">
+           <nav className="navbar navbar-expand-lg ">
   <div className="container-fluid">
     <a className="navbar-brand" href="#">
       JoJo
@@ -27,17 +27,17 @@ export default function Nav(props) {
       <ul className="navbar-nav">
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">
-           <Link to="/">Home</Link>
+           <Link className='link'  to="/">Home</Link>
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            <Link to="/shop">Shop</Link>
+            <Link className='link'  to="/shop">Shop</Link>
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            <Link to="/contact">Contact</Link>
+            <Link className='link' to="/contact">Contact</Link>
           </a>
         </li>
        

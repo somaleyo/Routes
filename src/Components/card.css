@@ -1,0 +1,22 @@
+.card-body{
+    background-color: hsl(205, 27%, 53%);
+}
+.card{
+    color: white;
+    
+}
+.card:hover{
+    transition: 0.3s ease;
+    transform:scale(1.02);
+}
+.card-img-top{
+    background-color: hsla(205, 27%, 53%, 0.949);
+}
+.btn{
+    background-color: blueviolet;
+    border: none;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}

@@ -2,7 +2,8 @@ import './card.css'
 import data from '../data.json'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
-
+import Nav from './Nav';
+Nav
 export default function Cards(props) {
     const [isLoading, setIsLoading] = useState(true);
 
@@ -16,6 +17,7 @@ export default function Cards(props) {
 
     return(
         <>
+        <Nav/>
             <div className="container mt-4">
             <h1 className="text-center mb-4">Nos Produits</h1>
             <div className="row">
@@ -24,7 +26,7 @@ export default function Cards(props) {
                     Array.from({ length: 3 }).map((index) => (
                         <div key={index} className="col-md-4 mb-4">
                             <div className="card" aria-hidden="true">
-                                <img src="..." className="card-img-top" alt="..." style={{ height: "200px", objectFit: "cover" }} />
+                                <img src="..." className="card-img-top" alt="..." style={{ height: "400px", objectFit: "cover" }} />
                                 <div className="card-body">
                                     <h5 className="card-title placeholder-glow">
                                         <span className="placeholder col-6" />
@@ -54,7 +56,7 @@ export default function Cards(props) {
                                     src={produit.image} 
                                     className="card-img-top" 
                                     alt={produit.nom}
-                                    style={{ height: "200px", objectFit: "cover" }}
+                                    style={{ height: "400px", objectFit: "contain" }}
                                 />
                                 <div className="card-body">
                                     <h5 className="card-title">{produit.nom}</h5>

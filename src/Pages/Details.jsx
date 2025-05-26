@@ -26,7 +26,7 @@ export default function Details(props) {
                             src={produit.image} 
                             className="card-img-top" 
                             alt={produit.nom}
-                            style={{ height: "300px", objectFit: "cover" }}
+                            style={{ height: "400px", objectFit: "contain" }}
                         />
                         <div className="card-body">
                             <h5 className="card-title">{produit.nom}</h5>
