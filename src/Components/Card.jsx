@@ -45,7 +45,7 @@ export default function Cards(props) {
                     ))
                 )
 : (
-                    produits.map(produit => (
+                    data.map(produit => (
                         <div key={produit.id} className="col-md-4 mb-4">
                             <div className="card">
                                 <img 

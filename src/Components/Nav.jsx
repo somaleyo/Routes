@@ -27,17 +27,17 @@ export default function Nav(props) {
       <ul className="navbar-nav">
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">
-            Home
+           <Link to="/">Home</Link>
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            Shop
+            <Link to="/shop">Shop</Link>
           </a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            Contact
+            <Link to="/contact">Contact</Link>
           </a>
         </li>
        
