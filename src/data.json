@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "nom":"JoJo SBR Chap-1",
+        "image":"https://m.media-amazon.com/images/I/5142PaIu58L._SY445_SX342_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":2,
+        "nom":"JoJo SBR Chap-2",
+        "image":"https://m.media-amazon.com/images/I/81W7ierlxGL._SY425_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":3,
+        "nom":"JoJo SBR Chap-3",
+        "image":"https://m.media-amazon.com/images/I/81PCF-lM-1L._SY425_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":4,
+        "nom":"JoJo SBR Chap-12",
+        "image":"https://m.media-amazon.com/images/I/5191QFoBfcL._SY445_SX342_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":5,
+        "nom":"JoJo SBR Chap-13",
+        "image":"https://m.media-amazon.com/images/I/51IqZL08mGL._SY445_SX342_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":6,
+        "nom":"JoJo SBR Chap-16",
+        "image":"https://m.media-amazon.com/images/I/916odMRnirL._SY425_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":7,
+        "nom":"JoJo SBR Chap-14",
+        "image":"https://m.media-amazon.com/images/I/919eaWy+jJL._AC_SY300_SX300_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":8,
+        "nom":"JoJo SBR Chap-8",
+        "image":"https://m.media-amazon.com/images/I/91mLszpqtRL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    },
+    {
+        "id":9,
+        "nom":"JoJo SBR Chap-7",
+        "image":"https://m.media-amazon.com/images/I/81m884Fd1OL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "description":"The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor, and frenetic battles.",
+        "prix":7.9
+    }
+    
+]

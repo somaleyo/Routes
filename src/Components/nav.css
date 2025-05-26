@@ -1,0 +1,18 @@
+.container-fluid{
+    padding-left:100px ;
+    background-color: transparent;
+
+}
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-left:500px;
+}
+nav{
+    background-color: transparent;
+}
+body{
+    background-color: hsl(259, 75%, 16%);
+    color: white;
+}
