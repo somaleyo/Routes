@@ -1,6 +1,8 @@
 import './card.css'
 import data from '../data.json'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom';
+
 export default function Cards(props) {
     const [isLoading, setIsLoading] = useState(true);
 
